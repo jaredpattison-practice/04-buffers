@@ -1,15 +1,15 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Buffers
 
-### Author: Student/Group Name
+### Author: Jared
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+[![Build Status](https://www.travis-ci.com/jaredpattison/04-buffers.svg?branch=master)](https://www.travis-ci.com/jaredpattison/04-buffers)
+* [repo](https://github.com/jaredpattison/04-buffers)
+* [travis](https://www.travis-ci.com/jaredpattison/04-buffers)
+
 
 ### Modules
 #### `modulename.js`
